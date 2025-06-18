@@ -1,0 +1,21 @@
+build/default/debug/motor.p1:  \
+motor.c  \
+motor.h  \
+mcc_generated_files/system/pins.h  \
+mcc_generated_files/pwm/pwm1_16bit.h  \
+mcc_generated_files/uart/uart1.h  \
+mcc_generated_files/uart/../system/system.h  \
+mcc_generated_files/system/config_bits.h  \
+mcc_generated_files/system/../system/clock.h  \
+mcc_generated_files/system/../adc/adcc.h  \
+mcc_generated_files/system/../nvm/nvm.h  \
+mcc_generated_files/system/../timer/tmr0.h  \
+mcc_generated_files/system/../timer/timer_interface.h  \
+mcc_generated_files/system/../timer/tmr2.h  \
+mcc_generated_files/system/../uart/uart1.h  \
+mcc_generated_files/system/../system/interrupt.h  \
+mcc_generated_files/system/../../tm1637.h  \
+mcc_generated_files/uart/uart_drv_interface.h  \
+mcc_generated_files/uart/uart_types.h  \
+menu.h  \
+debug.h 
